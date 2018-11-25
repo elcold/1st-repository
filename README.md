@@ -1,1 +1,1 @@
-# super-duper-succotash
+# 1st-repository
